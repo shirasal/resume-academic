@@ -7,7 +7,7 @@ superuser: true
 authors:
   - admin
 title: Shira Salingré
-role: MSc student, Marine Ecology and Biodiversity Lab, Tel Aviv University
+role: MSc student
 bio: Studying fish community assembly in the Mediterranean Sea
 interests:
   - Fish Biology
