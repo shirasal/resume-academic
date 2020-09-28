@@ -19,7 +19,7 @@ social:
     link: "#contact"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/shirasalin
+    link: https://twitter.com/shira_salin
   - icon: github
     icon_pack: fab
     link: https://github.com/shirasal
