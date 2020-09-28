@@ -1,7 +1,7 @@
 ---
 organizations:
-  - name: " The Belmaker Lab Marine Ecology & Biodiversity, School of Zoology, Tel
-      Aviv University"
+  - name: " The Belmaker Lab Marine for Ecology & Biodiversity, School of Zoology,
+      Tel Aviv University"
     url: https://belmaker.weebly.com/
 superuser: true
 authors:
