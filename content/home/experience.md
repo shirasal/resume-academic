@@ -72,8 +72,8 @@ date_format = "Jan 2006"
   company = "Israel Nature and Parks Authority"
   company_url = "https://www.parks.org.il/en/"
   location = ""
-  date_start = "2017"
-  date_end = "2019"
+  date_start = "2007-07-01"
+  date_end = "2019-12-31"
   description = """
   School field trip guiding, long-term ecological and environmental educational projects, educational materials development and marine guide.
 · Key responsibilities: field-guidance, demonstrate great knowledge in conservation and natural topics, leading groups of the general public and groups of guides.
