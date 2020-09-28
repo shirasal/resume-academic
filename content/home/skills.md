@@ -17,20 +17,38 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "R language"
+  description = "ADVANCED"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "globe-europe"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "QGIS"
+  description = "INTERMEDIATE"  
+
+[[feature]]
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "Data Analysis"
+  description = "ADVANCED"
+
+[[feature]]
+  icon = "fish"
+  icon_pack = "fas"
+  name = "Marine Fieldwork"
+  description = "Underwater surveys, boat surveys, etc."
+
+[[feature]]
+  icon = "language"
+  icon_pack = "fas"
+  name = "Languages"
+  description = "Hebrew/English"
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = "10%"
+  description = "WORKING ON IT"
 
 # Uncomment to use emoji icons.
 # [[feature]]
